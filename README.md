@@ -1,42 +1,93 @@
-# 👋 Hi, I'm Vaibhav!
+# 👋 Hi, I'm Vaibhav Shukla!
 
-## 💼 Full-Stack Web Developer  
-Passionate about building modern, responsive, and scalable web applications.  
-I have completed my Full-Stack Web Development training and I'm now working on real-world projects to enhance my skills and portfolio.
+## 💻 Full-Stack Web & App Developer | Python Programmer
+
+I'm a developer passionate about building modern web applications, mobile apps, and practical software solutions. I enjoy turning ideas into functional products and continuously improving my development skills through hands-on projects.
+
+I've completed my Full-Stack Web Development training and expanded my skills into mobile app development and Python programming. I'm currently focused on building real-world projects and strengthening my technical expertise.
 
 ---
 
 ## 🔥 What I Do
-- ✔️ Frontend Development (HTML, CSS, JavaScript, React, Next.js)  
-- ✔️ Backend Development (Node.js, Express.js)  
-- ✔️ Databases (MongoDB, MySQL)  
-- ✔️ API Development & Integration  
-- ✔️ Clean, maintainable & optimized code  
+
+- 🌐 **Frontend Development:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
+- ⚙️ **Backend Development:** Node.js, Express.js, REST APIs
+- 📱 **App Development:** React Native, Expo
+- 🐍 **Python Programming:** Python fundamentals, scripting and programming
+- 🗄️ **Databases:** MongoDB, MySQL
+- 🔗 **API Development & Integration**
+- 🛠️ **Tools:** Git, GitHub, VS Code, Postman
 
 ---
 
 ## 🚀 Current Focus
-- 🏗️ Building real-world full-stack projects  
-- ⚙️ Improving backend architecture and API performance  
-- 🎨 Learning advanced React & UI/UX improvements
+
+- 🏗️ Building full-stack web applications.
+- 📱 Developing cross-platform mobile applications.
+- 🐍 Improving Python programming skills.
+- ⚙️ Learning better backend architecture and application design.
+- 🎨 Improving UI/UX and creating responsive interfaces.
+- 📈 Writing clean, maintainable and efficient code.
+
 ---
 
-## 📂 My Goals
-- 📌 Create high-quality production-level applications  
-- 📌 Contribute to open-source projects  
-- 📌 Become a professional full-stack developer  
+## 🧰 Technologies & Tools
+
+**Languages**
+- JavaScript
+- Python
+- HTML
+- CSS
+
+**Frontend Development**
+- React.js
+- Next.js
+- Tailwind CSS
+
+**Mobile App Development**
+- React Native
+- Expo
+
+**Backend Development**
+- Node.js
+- Express.js
+
+**Databases**
+- MongoDB
+- MySQL
+
+**Tools & Platforms**
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 🎯 My Goals
+
+- Build high-quality, production-ready web and mobile applications.
+- Develop practical solutions to real-world problems.
+- Strengthen my expertise in software development.
+- Explore new technologies and development practices.
+- Contribute to open-source projects.
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-webdev&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-webdev&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-webdev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-webdev&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: kingshukla221@gmail.com 
+
+- 📧 Email: kingshukla221@gmail.com
+- 🌐 Portfolio: https://vaibhav-eight.vercel.app/
+- 💻 GitHub: https://github.com/Vaibhav-webdev
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+⭐ **Building, Learning, and Turning Ideas into Reality.**
