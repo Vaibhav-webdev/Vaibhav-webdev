@@ -77,7 +77,6 @@ I've completed my Full-Stack Web Development training and expanded my skills int
 
 - 📧 Email: kingshukla221@gmail.com
 - 🌐 Portfolio: https://vaibhav-eight.vercel.app/
-- 💻 GitHub: https://github.com/Vaibhav-webdev
 
 ---
 
