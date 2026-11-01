@@ -14,7 +14,7 @@ I've completed my Full-Stack Web Development training and expanded my skills int
 - ⚙️ **Backend Development:** Node.js, Express.js, REST APIs
 - 📱 **App Development:** React Native, Expo
 - 🐍 **Python Programming:** Python fundamentals, scripting and programming
-- 🗄️ **Databases:** MongoDB, MySQL
+- 🗄️ **Databases:** MongoDB
 - 🔗 **API Development & Integration**
 - 🛠️ **Tools:** Git, GitHub, VS Code, Postman
 
@@ -54,7 +54,6 @@ I've completed my Full-Stack Web Development training and expanded my skills int
 
 **Databases**
 - MongoDB
-- MySQL
 
 **Tools & Platforms**
 - Git
@@ -71,14 +70,6 @@ I've completed my Full-Stack Web Development training and expanded my skills int
 - Strengthen my expertise in software development.
 - Explore new technologies and development practices.
 - Contribute to open-source projects.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-webdev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-webdev&layout=compact&theme=tokyonight)
 
 ---
 
